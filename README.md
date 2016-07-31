@@ -27,13 +27,17 @@ Qt GUI C++
 
 来几张效果图
 
-![软件界面](https://github.com/windgodvc/ImageProcessing/blob/master/otherres/122.jpg)  
+软件界面
 
-![效果图](https://github.com/windgodvc/ImageProcessing/blob/master/otherres/FE004F17-D1F3-4B7C-9719-18B21C0F3928.png)  
+![软件界面](https://github.com/windgodvc/ImageProcessing/blob/master/otherres/122.jpg)  效果图1
 
-![效果图](https://github.com/windgodvc/ImageProcessing/blob/master/otherres/75CB32A5-3436-4D8B-B0DF-531C5CA15868.png)  
+![效果图](https://github.com/windgodvc/ImageProcessing/blob/master/otherres/FE004F17-D1F3-4B7C-9719-18B21C0F3928.png)  效果图2
 
-![原图1](https://github.com/windgodvc/ImageProcessing/blob/master/otherres/Test1.png)  ![原图2](https://github.com/windgodvc/ImageProcessing/blob/master/otherres/Test2.png)
+![效果图](https://github.com/windgodvc/ImageProcessing/blob/master/otherres/75CB32A5-3436-4D8B-B0DF-531C5CA15868.png)原图1  
+
+![原图1](https://github.com/windgodvc/ImageProcessing/blob/master/otherres/Test1.png)
+
+原图2    ![原图2](https://github.com/windgodvc/ImageProcessing/blob/master/otherres/Test2.png)
 
 
 
