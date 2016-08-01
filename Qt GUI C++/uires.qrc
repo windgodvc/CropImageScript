@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/about.png</file>
+        <file>res/publish.png</file>
+        <file>res/delete.png</file>
+        <file>res/icon.icns</file>
+        <file>res/load.png</file>
+    </qresource>
+</RCC>
