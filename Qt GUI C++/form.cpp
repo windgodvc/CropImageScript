@@ -6,6 +6,7 @@ Form::Form(QWidget *parent) :
     ui(new Ui::Form)
 {
     ui->setupUi(this);
+    resize(10,10);
     setWindowFlags(  Qt::WindowStaysOnTopHint);
     //  主窗口关闭时 副窗口一起关闭
     setAttribute(Qt::WA_QuitOnClose,false);
