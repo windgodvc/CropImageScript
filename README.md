@@ -1,5 +1,9 @@
 # **ImageProcessing**
 
+### release download: 
+
+- [release mac ](https://github.com/windgodvc/ImageProcessing/releases "")
+
 `author:windgodvc`
 
 ## python 
@@ -11,8 +15,7 @@
 ###—help
 
 - `resizeImage /root 100 50` --demo
-
--  `CircleRectImage /root maskfile` --demo
+- `CircleRectImage /root maskfile` --demo
 
 ###使用要求:
 
