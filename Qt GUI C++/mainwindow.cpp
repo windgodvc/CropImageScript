@@ -42,7 +42,7 @@ void MainWindow::initUI()
 
 
     connect(addToolAction("&Mask","load.png","open Mask file."),SIGNAL(triggered()),this,SLOT(MaskImage()));
-    connect(addToolAction("&Star","publish.png","Star"),SIGNAL(triggered()),this,SLOT(StartApplication()));
+    connect(addToolAction("&Start","publish.png","Start"),SIGNAL(triggered()),this,SLOT(StartApplication()));
     connect(addToolAction("&About","about.png","About"),SIGNAL(triggered()),this,SLOT(About()));
 
     ui->toolBar->setToolButtonStyle(Qt::ToolButtonTextUnderIcon);
