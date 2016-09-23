@@ -59,7 +59,7 @@ def CircleRectImage(file,Mask):
     painter.setCompositionMode(QPainter.CompositionMode_DestinationOver);
     painter.end();
     resultImage.save(file);
-    print ("succed ",file)
+    print ("succeed ",file)
 
 #main()
 if len(sys.argv) < 3 or len(sys.argv) < 1:
